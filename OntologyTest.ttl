@@ -51,6 +51,8 @@
 
 <https://schema.org/OntologyTest> a owl:Ontology .
 
+
+
 lrmoo:F31_Performance a rdfs:Class .
 
 snomed:105590001 a rdfs:Class .
